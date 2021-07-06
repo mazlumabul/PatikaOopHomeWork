@@ -2,5 +2,5 @@
 
 ## 
 
-Tasarımları indirdikten sonra görüntülemek için [Dia] (http://dia-installer.de/) editörünü indirebilirsiniz.
+Tasarımları indirdikten sonra görüntülemek için [Dia](http://dia-installer.de/) editörünü indirebilirsiniz.
 
