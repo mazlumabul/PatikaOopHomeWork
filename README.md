@@ -1,3 +1,6 @@
 # Patika Oop HomeWork
 
-## Ödevler bittikten sonra README dosyası güncellenecek.
+## 
+
+Tasarımları indirdikten sonra görüntülemek için [Dia] (http://dia-installer.de/) editörünü indirebilirsiniz.
+
